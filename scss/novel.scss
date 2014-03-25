@@ -1,0 +1,13 @@
+@import "main";
+
+.paragraph > p {
+  text-indent: 1em;
+}
+
+.paragraph.bracket > p {
+  text-indent: 0;
+}
+
+.bang {
+  margin-right: 1em;
+}
